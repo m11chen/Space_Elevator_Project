@@ -44,6 +44,4 @@ So we can calculate k:
   ```
   (Eq. 11)    k = 113.4 / 28.98 = 3.913
   ```
-What this means is that for a USD$ currency holder, each dollar they spend purchasing NTD$ on the classical monetary exchange market buys only  about 1/4 of the actual mass value of the NTC$. So we may state that "The NTC$ has a CMV exchange surplus of 3.913 with USD$". Conversly, we can also say that "the USD$ has a CMV exchange deficit of 0.2556 with NTC$".
-
-The goal of the world economy should be to excavate natural resource, produce goods, and relocate people affecting k towards 1 for all currencies to achieve global currency mass conservation.
+What this means is that for a USD$ currency holder, each dollar they spend purchasing NTD$ on the classical monetary exchange market buys only  about 1/4 of the actual mass value of the NTC$. So we may state that "The NTC$ has a CMV exchange surplus of 3.913 with USD$". Conversly, we can also say that "the USD$ has a CMV exchange deficit of 0.2556 with NTC$". The goal of the world economy should be to excavate natural resource, produce goods, and relocate people affecting k towards 1 for all currencies to achieve global currency mass conservation.
